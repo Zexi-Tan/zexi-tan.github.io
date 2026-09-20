@@ -225,7 +225,7 @@ My research primarily focuses on **data mining**, **time series analysis**, and 
 To date, I have authored or co-authored **11 papers** with over **100 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and **global Tencent campus ambassador**.
 
 
-## <i class="fas fa-user-graduate"></i> Education
+<h2 id="education"><i class="fas fa-user-graduate"></i> Education</h2>
 
 <div class="edu-section">
 
@@ -254,13 +254,13 @@ To date, I have authored or co-authored **11 papers** with over **100 citations*
 
 </div>
 
-## <i class="fas fa-search"></i> Research Interests {:#research}
+<h2 id="research"><i class="fas fa-search"></i> Research Interests</h2>
 
 - Generative Recommendation
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
 
-## <i class="fas fa-bullhorn"></i> News {:#news}
+<h2 id="news"><i class="fas fa-bullhorn"></i> News</h2>
 - **2026/09**: I was admitted to **SUSTech’s Direct Ph.D. Program** via Recommended Admission.
 - **2026/08**: I serve as a **Global Tencent Campus Ambassador**.
 - **2026/07**: I serve as a Program Committee member for **IEEE BIBM 2026**.
@@ -275,7 +275,7 @@ To date, I have authored or co-authored **11 papers** with over **100 citations*
 <!-- - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**) -->
 - ...
 
-## <i class="fas fa-book-open"></i> Selected Publications {:#publications}
+<h2 id="publications"><i class="fas fa-book-open"></i> Selected Publications</h2>
 
 ### Conference Papers
 
@@ -444,7 +444,7 @@ To date, I have authored or co-authored **11 papers** with over **100 citations*
 </div>
 
 
-## <i class="fas fa-code-branch"></i> Projects {:#projects}
+<h2 id="projects"><i class="fas fa-code-branch"></i> Projects</h2>
 
 ### Complex Time Series Representation Learning
 
@@ -463,7 +463,7 @@ This research line studies how unsupervised models can remain reliable when data
 Representative outcomes include publications in **IEEE Internet of Things Journal**, **IEEE Transactions on Neural Networks and Learning Systems**, and **Neurocomputing**, covering robust outlier detection, imbalanced streaming data clustering, and subspace density-based clustering. The project also supported award-winning research recognized in the **Challenge Cup** competition, including a provincial grand prize and a national third prize.
 
 
-## <i class="fas fa-trophy"></i> Honors and Awards {:#awards}
+<h2 id="awards"><i class="fas fa-trophy"></i> Honors and Awards</h2>
 
 ### Competitions and Research Awards
 
@@ -518,7 +518,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 * **Outstanding Student Leader Scholarship**, Guangdong University of Technology, 2024
 
 
-## <i class="fas fa-users"></i> Academic Services {:#services}
+<h2 id="services"><i class="fas fa-users"></i> Academic Services</h2>
 
 - Global Tencent Campus Ambassador, 2026
 - Program Committee member, *IEEE International Conference on Bioinformatics and Biomedicine*, 2026

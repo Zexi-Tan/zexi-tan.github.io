@@ -218,11 +218,11 @@ redirect_from:
 </style>
 
 
-I am a fourth-year undergraduate student majoring in Computer Science and Technology in the prestigious **Fuxi Honors Class** at **Guangdong University of Technology (GDUT)**, where I am fortunate to be advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**.
+I am a fourth-year undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. I have been admitted to the Direct Ph.D. Program at **Southern University of Science and Technology (SUSTech)** through the Recommended Admission Program.
 
-My research primarily focuses on **data mining**, **time series analysis**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data. 
+My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 
-To date, I have authored or co-authored **11 papers** with over **100 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and **global Tencent campus ambassador**.
+To date, I have authored or co-authored **11 papers** with over **140 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
 
 
 <h2 id="education"><i class="fas fa-user-graduate"></i> Education</h2>

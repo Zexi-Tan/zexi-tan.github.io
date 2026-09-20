@@ -218,7 +218,7 @@ redirect_from:
 </style>
 
 
-I am a fourth-year undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. I have been admitted to the Direct Ph.D. Program at **Southern University of Science and Technology (SUSTech)** through the Recommended Admission Program.
+I am a senior undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. I have been admitted to the **Direct Ph.D. Program** in Department of Computer Science and Engineering at **Southern University of Science and Technology (SUSTech)** through the Recommended Admission Program.
 
 My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 

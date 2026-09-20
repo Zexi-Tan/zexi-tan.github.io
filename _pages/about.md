@@ -256,18 +256,20 @@ To date, I have authored or co-authored **11 papers** with over **100 citations*
 
 ## <i class="fas fa-search"></i> Research Interests
 
+- Generative Recommendation
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
 
 ## <i class="fas fa-bullhorn"></i> News
-- **2026**: I serve as a **Global Tencent Campus Ambassador**.
-- **2026**: I serve as a Program Committee member for **IEEE BIBM 2026**.
-- **2026**: I serve as a Program Committee member for **PRICAI 2026**.
-- **2026**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
-- **2026**: One paper was accepted by **SIGKDD 2026**.
-- **2026**: One paper was accepted by **AAAI 2026**.
-- **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
-- **2025**: One paper was accepted by **IEEE BIBM 2025**.
+- **2026/09**: I was admitted to **SUSTech’s Direct Ph.D. Program** via Recommended Admission.
+- **2026/08**: I serve as a **Global Tencent Campus Ambassador**.
+- **2026/07**: I serve as a Program Committee member for **IEEE BIBM 2026**.
+- **2026/07**: I serve as a Program Committee member for **PRICAI 2026**.
+- **2026/07**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
+- **2026/07**: One paper was accepted by **SIGKDD 2026**.
+- **2025/11**: One paper was accepted by **AAAI 2026**.
+- **2025/11**: One paper was accepted by **IEEE Internet of Things Journal**.
+<!-- - **2025/10**: One paper was accepted by **IEEE BIBM 2025**. -->
 <!-- - **2025**: One paper was accepted by **PRICAI 2025**. -->
 <!-- - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. -->
 <!-- - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**) -->

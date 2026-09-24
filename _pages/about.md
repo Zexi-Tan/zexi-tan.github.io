@@ -222,7 +222,7 @@ I am a senior undergraduate student majoring in Computer Science and Technology 
 
 My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 
-To date, I have authored or co-authored **12 papers** with over **140 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
+To date, I have authored or co-authored **13 papers** with over **140 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **ICDM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
 
 
 <h2 id="education"><i class="fas fa-user-graduate"></i> Education</h2>
@@ -261,6 +261,7 @@ To date, I have authored or co-authored **12 papers** with over **140 citations*
 - Unsupervised Learning and Data Mining
 
 <h2 id="news"><i class="fas fa-bullhorn"></i> News</h2>
+- **2026/09**: One paper was accepted by **IEEE ICDM 2026**.
 - **2026/09**: One paper was accepted by **IEEE BIBM 2026**.
 - **2026/09**: I was admitted to **SUSTech’s Direct Ph.D. Program** via Recommended Admission.
 - **2026/08**: I serve as a **Global Tencent Campus Ambassador**.
@@ -268,7 +269,7 @@ To date, I have authored or co-authored **12 papers** with over **140 citations*
 - **2026/07**: I serve as a Program Committee member for **PRICAI 2026**.
 - **2026/07**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
 - **2026/07**: One paper was accepted by **SIGKDD 2026**.
-- **2025/11**: One paper was accepted by **AAAI 2026**.
+<!-- - **2025/11**: One paper was accepted by **AAAI 2026**. -->
 <!-- - **2025/11**: One paper was accepted by **IEEE Internet of Things Journal**. -->
 <!-- - **2025/10**: One paper was accepted by **IEEE BIBM 2025**. -->
 <!-- - **2025**: One paper was accepted by **PRICAI 2025**. -->

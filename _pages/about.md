@@ -329,6 +329,29 @@ To date, I have authored or co-authored **13 papers** with over **140 citations*
 
 <div class="pub-card">
   <div class="pub-img-wrap">
+    <img src="/images/publications/ICDM2026.png" alt="ICDM2026">
+    <div class="pub-venue">ICDM · 2026</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering
+    </div>
+
+    <div class="pub-authors">
+      Zheng Zhu, <strong>Zexi Tan*</strong>, Yuming Deng, Yiqun Zhang
+    </div>
+
+    <div class="pub-desc">
+      Proceedings of the 2026 IEEE International Conference on Data Mining.
+    </div>
+
+    <div class="pub-badge">CCF-B</div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-img-wrap">
     <img src="/images/publications/BIBM2025.png" alt="BIBM2025">
     <div class="pub-venue">BIBM · 2025</div>
   </div>

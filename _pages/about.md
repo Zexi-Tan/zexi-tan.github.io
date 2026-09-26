@@ -231,6 +231,18 @@ To date, I have authored or co-authored **13 papers** with over **140 citations*
 
   <div class="edu-card">
     <div class="edu-logo">
+      <img src="/images/SUSTech.png" alt="Southern University of Science and Technology">
+    </div>
+
+    <div class="edu-content">
+      <div class="edu-school">Southern University of Science and Technology</div>
+      <div class="edu-major">Ph.D. in Computer Science and Technology</div>
+      <div class="edu-date">2027.09 – </div>
+    </div>
+  </div>
+
+  <div class="edu-card">
+    <div class="edu-logo">
       <img src="/images/GDUT.png" alt="Guangdong University of Technology">
     </div>
 

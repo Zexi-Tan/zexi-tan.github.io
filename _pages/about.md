@@ -272,8 +272,6 @@ To date, I have authored or co-authored **13 papers** with over **140 citations*
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
 
-<h2 id="news"><i class="fas fa-bullhorn"></i> News</h2>
-
 <section style="border: 1px solid #e3e8ef; border-radius: 12px; background: #fff; padding: 18px 20px; margin: 24px 0;">
   <h2 id="news" style="margin: 0 0 12px;">
     <i class="fas fa-bullhorn"></i> News

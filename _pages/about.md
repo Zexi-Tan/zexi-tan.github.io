@@ -273,21 +273,31 @@ To date, I have authored or co-authored **13 papers** with over **140 citations*
 - Unsupervised Learning and Data Mining
 
 <h2 id="news"><i class="fas fa-bullhorn"></i> News</h2>
-- **2026/09**: One paper was accepted by **IEEE ICDM 2026**.
-- **2026/09**: One paper was accepted by **IEEE BIBM 2026**.
-- **2026/09**: I was admitted to **SUSTech’s Direct Ph.D. Program** via Recommended Admission.
-- **2026/08**: I serve as a **Global Tencent Campus Ambassador**.
-- **2026/07**: I serve as a Program Committee member for **IEEE BIBM 2026**.
-- **2026/07**: I serve as a Program Committee member for **PRICAI 2026**.
-- **2026/07**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
-- **2026/07**: One paper was accepted by **SIGKDD 2026**.
-<!-- - **2025/11**: One paper was accepted by **AAAI 2026**. -->
-<!-- - **2025/11**: One paper was accepted by **IEEE Internet of Things Journal**. -->
-<!-- - **2025/10**: One paper was accepted by **IEEE BIBM 2025**. -->
-<!-- - **2025**: One paper was accepted by **PRICAI 2025**. -->
-<!-- - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. -->
-<!-- - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**) -->
-- ...
+
+<section style="border: 1px solid #e3e8ef; border-radius: 12px; background: #fff; padding: 18px 20px; margin: 24px 0;">
+  <h2 id="news" style="margin: 0 0 12px;">
+    <i class="fas fa-bullhorn"></i> News
+  </h2>
+
+  <div style="max-height: 260px; overflow-y: auto; padding-right: 12px;">
+    <ul style="margin: 0; padding-left: 22px; line-height: 1.8;">
+      <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE ICDM 2026</strong>.</li>
+      <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE BIBM 2026</strong>.</li>
+      <li><strong>2026/09</strong>: I was admitted to <strong>SUSTech’s Direct Ph.D. Program</strong> via Recommended Admission.</li>
+      <li><strong>2026/08</strong>: I serve as a <strong>Global Tencent Campus Ambassador</strong>.</li>
+      <li><strong>2026/07</strong>: I serve as a Program Committee member for <strong>IEEE BIBM 2026</strong>.</li>
+      <li><strong>2026/07</strong>: I serve as a Program Committee member for <strong>PRICAI 2026</strong>.</li>
+      <li><strong>2026/07</strong>: Our team won the <strong>Grand Prize</strong> in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (<strong>The Highest Prize</strong>)</li>
+      <li><strong>2026/07</strong>: One paper was accepted by <strong>SIGKDD 2026</strong>.</li>
+      <li><strong>2025/11</strong>: One paper was accepted by <strong>AAAI 2026</strong>.</li>
+      <li><strong>2025/11</strong>: One paper was accepted by <strong>IEEE Internet of Things Journal</strong>.</li>
+      <li><strong>2025/10</strong>: One paper was accepted by <strong>IEEE BIBM 2025</strong>.</li>
+      <li><strong>2025/09</strong>: Our team won the Third Prize in the <strong>National “Challenge Cup”</strong> Competition.</li>
+      <li><strong>2025/08</strong>: One paper was accepted by <strong>PRICAI 2025</strong>.</li>
+      <li><strong>2025/07</strong>: Our team won the <strong>First Prize</strong> in the National Finals of the China Collegiate Computing Competition. (<strong>The Highest Prize</strong>).</li>
+    </ul>
+  </div>
+</section>
 
 <h2 id="publications"><i class="fas fa-book-open"></i> Selected Publications</h2>
 

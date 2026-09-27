@@ -497,7 +497,7 @@ I serve as the **host and rank-1 member** of a national-level undergraduate inno
 
 My work develops a series of representation learning frameworks around **multi-view enhancement**, **adaptive masking**, **redundancy suppression**, and **structure-preserving contrastive learning**. Rather than treating time series as ordinary sequential inputs, this line of research focuses on identifying the sparse but decisive temporal patterns behind complex signals, with applications in **unsupervised time series clustering**, **early medical time series prediction**, and **scalable temporal data mining**.
 
-This project has led to multiple first-author research outcomes, including papers accepted by **AAAI 2026**, **BIBM 2025**, and **PRICAI 2025**, as well as ongoing submissions to top-tier venues such as **ICDE**, **SIGMOD**, and **TPAMI**. The team also won the **National First Prize** in the Chinese Collegiate Computing Competition, where I served as the host and rank-1 member.
+This project has led to multiple first-author research outcomes, including papers accepted by **SIGKDD 2026**, **AAAI 2026**, **ICDM 2026**, **BIBM 2025**, and **PRICAI 2025**, as well as ongoing submissions to top-tier venues such as **ICLR** and **SIGMOD**. The team also won the **National First Prize** in the Chinese Collegiate Computing Competition, where I served as the host and rank-1 member.
 
 ### Robust Unsupervised Learning and Pattern Discovery
 
@@ -557,6 +557,8 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 * **37 Interactive Entertainment University Student Empowerment Scholarship**, 2024
 
 * **First-Class University Scholarship**, Guangdong University of Technology, 2024
+
+* **Second-Class University Scholarship**, Guangdong University of Technology, 2026
 
 * **Third-Class University Scholarship**, Guangdong University of Technology, 2025
 

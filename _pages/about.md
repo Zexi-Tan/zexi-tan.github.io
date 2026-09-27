@@ -217,8 +217,9 @@ redirect_from:
 }
 </style>
 
+Hi! I am Zexi Tan, I have been admitted to the **Direct Ph.D. Program** in the **Department of Computer Science and Engineering** at **Southern University of Science and Technology (SUSTech)** through the Recommended Admission Program, and I am currently working there under the supervision of **[Prof. Xuemeng Song](https://xuemengsong.github.io/)**.
 
-I am a senior undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. I have been admitted to the **Direct Ph.D. Program** in the Department of Computer Science and Engineering at **Southern University of Science and Technology (SUSTech)** through the Recommended Admission Program.
+I am also a senior undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**.
 
 My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 

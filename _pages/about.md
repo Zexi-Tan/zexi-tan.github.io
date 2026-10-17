@@ -223,7 +223,7 @@ I am also a senior undergraduate student majoring in Computer Science and Techno
 
 My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 
-To date, I have authored or co-authored **13 papers** with over **150 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **ICDM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
+To date, I have authored or co-authored **13 papers** with over **175 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **ICDM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
 
 
 <h2 id="education"><i class="fas fa-user-graduate"></i> Education</h2>
@@ -462,7 +462,7 @@ To date, I have authored or co-authored **13 papers** with over **150 citations*
       IEEE Transactions on Neural Networks and Learning Systems.
     </div>
 
-    <div class="pub-badge">JCR Q1 Top, ESI Highly Cited Paper</div>
+    <div class="pub-badge">JCR Q1 Top, ESI Hot Paper</div>
   </div>
 </div>
 

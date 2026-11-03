@@ -221,7 +221,7 @@ Hi! I am Zexi Tan, I have been admitted to the **Direct Ph.D. Program** in the *
 
 I am also a senior undergraduate student majoring in Computer Science and Technology at **Guangdong University of Technology (GDUT)**, where I am a member of the prestigious **Fuxi Honors Class** and fortunately advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**.
 
-My research primarily focuses on **data mining**, **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
+My research primarily focuses on **time series analysis**, **generative recommendation**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data.
 
 To date, I have authored or co-authored **13 papers** with over **190 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **ICDM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as an **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project, and a **global Tencent campus ambassador**.
 

@@ -538,8 +538,10 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
   *Individual programming competition.*
 
 ### Scholarships and Academic Honors
+* **National Encouragement Scholarship**, 2026
+  *One of the highest national-level scholarships for undergraduates in China.*
 
-* **National Scholarship**, 2024–2025
+* **National Encouragement Scholarship**, 2025
   *One of the highest national-level scholarships for undergraduates in China.*
 
 * **PRICAI+IVCNZ Student Scholarship**, 2025

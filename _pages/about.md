@@ -237,7 +237,7 @@ To date, I have authored or co-authored **13 papers** with over **190 citations*
 
     <div class="edu-content">
       <div class="edu-school">Southern University of Science and Technology</div>
-      <div class="edu-major">Ph.D. in Computer Science and Technology</div>
+      <div class="edu-major">Ph.D. in Computer Science and Technology (Double First-Class)</div>
       <div class="edu-date">2027.09 – </div>
     </div>
   </div>
@@ -249,7 +249,7 @@ To date, I have authored or co-authored **13 papers** with over **190 citations*
 
     <div class="edu-content">
       <div class="edu-school">Guangdong University of Technology</div>
-      <div class="edu-major">B.S. in Computer Science and Technology</div>
+      <div class="edu-major">B.S. in Computer Science and Technology (ESI Top 1%)</div>
       <div class="edu-date">2023.09 – Present</div>
     </div>
   </div>
@@ -261,6 +261,7 @@ To date, I have authored or co-authored **13 papers** with over **190 citations*
 
     <div class="edu-content">
       <div class="edu-school">Huizhou Hualuogeng High School</div>
+      <div class="edu-major">Innovation Class</div>
       <div class="edu-date">2020.09 – 2023.06</div>
     </div>
   </div>

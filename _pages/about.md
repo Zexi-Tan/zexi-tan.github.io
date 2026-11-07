@@ -281,7 +281,7 @@ To date, I have authored or co-authored **13 papers** with over **200 citations*
 
   <div style="max-height: 260px; overflow-y: auto; padding-right: 12px;">
     <ul style="margin: 0; padding-left: 22px; line-height: 1.8;">
-      <li><strong>2026/11</strong>: I was named a "Star of Scientific and Technological Innovation" at GDUT.</li>
+      <li><strong>2026/11</strong>: I was named a <strong>Star of Scientific and Technological Innovation</strong> at GDUT.</li>
       <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE ICDM 2026</strong>.</li>
       <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE BIBM 2026</strong>.</li>
       <li><strong>2026/09</strong>: I was admitted to <strong>SUSTech’s Direct Ph.D. Program</strong> via Recommended Admission.</li>

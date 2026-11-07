@@ -249,7 +249,7 @@ To date, I have authored or co-authored **13 papers** with over **200 citations*
 
     <div class="edu-content">
       <div class="edu-school">Guangdong University of Technology</div>
-      <div class="edu-major">B.S. in Computer Science and Technology</div>
+      <div class="edu-major">B.S. in Computer Science and Technology (Fuxi Honors Class | Top 5%)</div>
       <div class="edu-date">2023.09 – Present</div>
     </div>
   </div>

@@ -550,7 +550,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
   *International scholarship; recommended by **[Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/%7Eymc/)**.*
 
 * **First Prize**, NSFOCUS Public Welfare Foundation Education Scholarship, 2025
-  *The only recipient in Guangdong University of Technology.*
+  *The only recipient in GDUT.*
 
 * **Lianji Outstanding Student Scholarship**, 2025
 

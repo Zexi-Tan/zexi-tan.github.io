@@ -552,7 +552,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 * **First Prize**, NSFOCUS Public Welfare Foundation Education Scholarship, 2025
   *The only recipient in GDUT.*
 
-* **Lianji Outstanding Student Scholarship**, 2025
+* **Lianji Outstanding Student Scholarship**, 2024
 
 * **Lianji Outstanding Team Scholarship**, 2025
   *Received twice.*

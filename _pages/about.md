@@ -557,6 +557,8 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 * **Lianji Outstanding Team Scholarship**, 2025
   *Received twice.*
 
+* **Ting Hsin Scholarship**, 2026
+
 * **Ting Hsin Scholarship**, 2025
 
 * **37 Interactive Entertainment University Student Empowerment Scholarship**, 2024

@@ -563,13 +563,13 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 
 * **37 Interactive Entertainment University Student Empowerment Scholarship**, 2024
 
-* **First-Class University Scholarship**, Guangdong University of Technology, 2024
+* **First-Class University Scholarship**, GDUT, 2024
 
-* **Second-Class University Scholarship**, Guangdong University of Technology, 2026
+* **Second-Class University Scholarship**, GDUT, 2026
 
-* **Third-Class University Scholarship**, Guangdong University of Technology, 2025
+* **Third-Class University Scholarship**, GDUT, 2025
 
-* **Outstanding Student Leader Scholarship**, Guangdong University of Technology, 2024
+* **Outstanding Student Leader Scholarship**, GDUT, 2024
 
 
 <h2 id="services"><i class="fas fa-users"></i> Academic Services</h2>

@@ -549,8 +549,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 * **PRICAI+IVCNZ Student Scholarship**, 2025
   *International scholarship; recommended by **[Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/%7Eymc/)**.*
 
-* **NSFOCUS Public Welfare Foundation Education Scholarship**, First Prize, 2026
-  *The only recipient in GDUT.*
+* **NSFOCUS Public Welfare Foundation Education Scholarship**, Second Prize, 2026
 
 * **NSFOCUS Public Welfare Foundation Education Scholarship**, First Prize, 2025
   *The only recipient in GDUT.*

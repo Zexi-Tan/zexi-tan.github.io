@@ -23,7 +23,7 @@ repository               : "Zexi-Tan/Zexi-Tan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zexi.png"
+  avatar           : "me.png"
   name             : "Zexi Tan"
   bio              : "BS · OMG Lab · GDUT"
   location         : "Guangzhou · China"

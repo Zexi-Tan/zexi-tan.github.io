@@ -540,6 +540,10 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
   *Individual programming competition.*
 
 ### Scholarships and Academic Honors
+
+* **Star of Scientific and Technological Innovation** at GDUT, 2026
+  *Only ten recipients in GDUT.*
+
 * **National Encouragement Scholarship**, 2026
   *One of the highest national-level scholarships for undergraduates in China.*
 

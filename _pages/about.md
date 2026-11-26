@@ -246,7 +246,7 @@ My research primarily focuses on **time series analysis**, **generative recommen
     <div class="edu-content">
       <div class="edu-school">Guangdong University of Technology</div>
       <div class="edu-major">B.S. in Computer Science and Technology (Fuxi Honors Class | Top 5%)</div>
-      <div class="edu-major">"Star of Scientific and Technological Innovation"</div>
+      <div class="edu-major">Title: "Star of Scientific and Technological Innovation"</div>
       <div class="edu-date">2023.09 – 2027.06</div>
     </div>
   </div>
@@ -259,7 +259,7 @@ My research primarily focuses on **time series analysis**, **generative recommen
     <div class="edu-content">
       <div class="edu-school">Huizhou Hualuogeng High School</div>
       <div class="edu-major">Innovation Class in Science and Engineering</div>
-      <div class="edu-major">"Outstanding Student of Guangdong Province"</div>
+      <div class="edu-major">Title: "Outstanding Student of Guangdong Province"</div>
       <div class="edu-date">2020.09 – 2023.06</div>
     </div>
   </div>

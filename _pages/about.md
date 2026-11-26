@@ -234,7 +234,7 @@ My research primarily focuses on **time series analysis**, **generative recommen
     <div class="edu-content">
       <div class="edu-school">Southern University of Science and Technology</div>
       <div class="edu-major">Ph.D. in Computer Science and Technology</div>
-      <div class="edu-date">2027.09 – </div>
+      <div class="edu-date">2027.09 – 2032.06</div>
     </div>
   </div>
 
@@ -246,7 +246,7 @@ My research primarily focuses on **time series analysis**, **generative recommen
     <div class="edu-content">
       <div class="edu-school">Guangdong University of Technology</div>
       <div class="edu-major">B.S. in Computer Science and Technology (Fuxi Honors Class | Top 5%)</div>
-      <div class="edu-date">2023.09 – Present</div>
+      <div class="edu-date">2023.09 – 2027.06</div>
     </div>
   </div>
 

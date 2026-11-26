@@ -277,6 +277,7 @@ My research primarily focuses on **time series analysis**, **generative recommen
 
   <div style="max-height: 260px; overflow-y: auto; padding-right: 12px;">
     <ul style="margin: 0; padding-left: 22px; line-height: 1.8;">
+      <li><strong>2026/11</strong>: Our team was awarded a <strong>key project</strong> under the Guangdong S&T Innovation Strategy Fund.</li>
       <li><strong>2026/11</strong>: I was named a <strong>Star of Scientific and Technological Innovation</strong> at GDUT.</li>
       <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE ICDM 2026</strong>.</li>
       <li><strong>2026/09</strong>: One paper was accepted by <strong>IEEE BIBM 2026</strong>.</li>
